@@ -1,0 +1,1 @@
+Selection sort is so called because it selects the smallest/largest element in the list and swaps it with the element at the first position, then selects the next smallest/largest element in the list and swaps it with the element at the second position and so on until it is done with the number at last position in the list. 
